@@ -1,0 +1,40 @@
+body {
+  background-color: #52F743;
+  color: red;
+  text-align: center;
+}
+
+img {
+  max-width: 300px;
+  max-height: auto;
+}
+
+h1, h2 {
+  font-family: 'Astloch', cursive;
+}
+
+ul {
+  text-align: left;
+}
+
+a {
+  color: black;
+}
+
+#home h1 {
+  font-size: 10em;
+}
+
+#home h2 {
+  font-size: 3em;
+}
+
+.menu {
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  display: inline;
+  padding: 10px;
+}
