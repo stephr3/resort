@@ -10,9 +10,9 @@ _This is a website about a luxury island resort by the name of Dragon Island. Ex
 
 ## Setup/Installation
 
-*_Clone this repository._
-*_Open the HTML file on a web browser of your choice._
-*_Enjoy!_
+* _Clone this repository._
+* _Open the HTML file on a web browser of your choice._
+* _Enjoy!_
 
 ## Support and contact
 
